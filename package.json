@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "private": true,
     "type": "module",
     "scripts": {
@@ -10,4 +11,9 @@
         "laravel-vite-plugin": "^1.0",
         "vite": "^5.0"
     }
+=======
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+>>>>>>> 25ec16dcf802b6ca2a9b869a60982e429f3b485d
 }
